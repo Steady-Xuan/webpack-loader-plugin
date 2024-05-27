@@ -1,0 +1,3 @@
+<script>
+    console.log('获得标签内的内容啦')
+</script>
